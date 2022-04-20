@@ -1,0 +1,1 @@
+Criação de uma API usando express. Nesse caso os cursos estão salvos em um arquivo json.
